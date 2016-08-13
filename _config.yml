@@ -6,9 +6,9 @@ color:
   saturation: 0.502957521006465
   rhythmicContrast: 0.2482360436115414
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#D0D0D0'
+    - '#040301'
+    - '#514335'
+    - '#F2AE3D'
+    - '#E93824'
 name: Highboon
