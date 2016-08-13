@@ -1,0 +1,14 @@
+layout_spectrum: 0.3161344735417515
+typography_spectrum: 0.10248465812765062
+color:
+  brandStrength: 0.7658107348252088
+  lightness: 0.5483345179818571
+  saturation: 0.502957521006465
+  rhythmicContrast: 0.2482360436115414
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Highboon
